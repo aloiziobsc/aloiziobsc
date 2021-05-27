@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 
-My name is Aloízio Borges. I'm an Economist and Full Stack Developer. 
+My name is Aloízio Borges Santos Coelho. I'm an Economist and Full Stack Developer. 
 
 ##  🚀🪐 Conhecimentos:
 <div align="center">
@@ -36,6 +36,6 @@ My name is Aloízio Borges. I'm an Economist and Full Stack Developer.
 </a>
 </div>
 
-<p align="center">📧 Email: coelho.absc@gmail.com</p>
+<p align="center">🐇 Email: coelho.absc@gmail.com</p>
 
 
