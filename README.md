@@ -1,11 +1,10 @@
-# @aloiziobsc
-
 ## Hi there 👋
 
-<h3>My name is Aloízio Borges Santos Coelho. I'm an Economist and Full Stack Developer.</h3>
+### My name is Aloízio Borges Santos Coelho. I'm an Economist and Full Stack Developer.
+![Aloízio GitHub stats](https://github-readme-stats.vercel.app/api?username=aloiziobsc&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloiziobsc&layout=compact)](https://github.com/aloiziobsc/github-readme-stats)
 <hr>
-
-<h2>🚀🪐 Conhecimentos:</h2>
+<h2 align="center">🚀🪐 Conhecimentos:</h2>
 
 <div align="center">
     <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" alt="react logo"/> 
@@ -23,7 +22,8 @@
 </div>
 <hr>
 
-<h2>👇 Contato:</h2>
+
+<h2 align="center">👇 Contato:</h2>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/aloiziobsc/" target="_blank">
@@ -38,3 +38,4 @@
 </div>
 
 <p align="center">🐇<b>Email: coelho.absc@gmail.com</b></p>
+
