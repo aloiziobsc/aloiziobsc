@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Aloízio Borges Santos Coelho. I'm an Economist and Full Stack Developer.
-![Aloízio GitHub stats](https://github-readme-stats.vercel.app/api?username=aloiziobsc&show_icons=true&theme=algolia)
+![Aloízio GitHub stats](https://github-readme-stats.vercel.app/api?username=aloiziobsc&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloiziobsc&layout=compact)](https://github.com/aloiziobsc/github-readme-stats)
 <hr>
 <h2 align="center">🚀🪐 Conhecimentos:</h2>
