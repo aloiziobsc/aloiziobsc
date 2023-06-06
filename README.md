@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### I'm Aloizio a Full Stack Developer and Economist.
-![Aloízio GitHub stats](https://github-readme-stats.vercel.app/api?username=aloiziobsc&show_icons=true&theme=default)
 
 <hr>
 <h2 align="center">🚀🪐 Conhecimentos:</h2>
